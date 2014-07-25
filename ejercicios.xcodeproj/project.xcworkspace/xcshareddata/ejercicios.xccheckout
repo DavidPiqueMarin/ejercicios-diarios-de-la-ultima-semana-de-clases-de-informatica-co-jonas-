@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1175EBF4-0AC3-47C8-B99B-D65B9A2374E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ejercicios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9F0F5A5-AC0D-4ADC-9F1E-271F440C5B07</key>
+		<string>https://github.com/DavidPiqueMarin/ejercicios-diarios-de-la-ultima-semana-de-clases-de-informatica-co-jonas-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ejercicios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9F0F5A5-AC0D-4ADC-9F1E-271F440C5B07</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DavidPiqueMarin/ejercicios-diarios-de-la-ultima-semana-de-clases-de-informatica-co-jonas-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9F0F5A5-AC0D-4ADC-9F1E-271F440C5B07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9F0F5A5-AC0D-4ADC-9F1E-271F440C5B07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ejercicios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
